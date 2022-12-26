@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+My name is Fabricio and I'm a computer science student living in Canada. Here's some info about me!
+
+⚡ Work experience: (In construction)
+
+🌱 Interests:
+
+* Web development.
+
+💬 Reach me by email or LinkedIn! <a name="">fasegnun@gmail.com</a> | 
+
 <!--
 **FabricioSe/FabricioSe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,14 +25,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Fabricio and I'm a computer science student living in Canada. Here's some info about me!
 
-⚡ Work experience: (In construction)
-
-🌱 Interests:
-
-* Web development.
-
-💬 Reach me by email or LinkedIn! <a name="">fasegnun@gmail.com</a> | www.linkedin.com/in/matthewdukepan
-
-📫 Visit my website: https://matthewpancv.web.app
