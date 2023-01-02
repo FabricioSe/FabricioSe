@@ -6,7 +6,7 @@ My name is Fabricio and I'm a computer science student living in Canada. Here's 
 
 * Web development.
 
-💬 Reach me by email or LinkedIn! <a name="">fabriciosegovia@msn.com</a> | <a href="www.linkedin.com/in/fabriciosegovia/">www.linkedin.com/in/fabriciosegovia</a>
+💬 Reach me by email or LinkedIn! <a href="mailto:fabriciosegovia@msn.com">fabriciosegovia@msn.com</a> | <a href="https://www.linkedin.com/in/fabriciosegovia" rel="nofollow">www.linkedin.com/in/fabriciosegovia</a>
 
 <!--
 **FabricioSe/FabricioSe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
