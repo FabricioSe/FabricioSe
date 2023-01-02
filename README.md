@@ -4,7 +4,8 @@ My name is Fabricio and I'm a computer science student living in Canada. Here's 
 
 🌱 Interests:
 
-* Web development.
+* Full-stack development
+* Artificial Intelligence 
 
 💬 Reach me by email or LinkedIn! <a href="mailto:fabriciosegovia@msn.com">fabriciosegovia@msn.com</a> | <a href="https://www.linkedin.com/in/fabriciosegovia" rel="nofollow">www.linkedin.com/in/fabriciosegovia</a>
 
