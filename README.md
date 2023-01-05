@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋</h1>
 
-My name is Fabricio and I'm a computer science student living in Canada. Here's some info about me!
+<h3> align="center">My name is Fabricio and I'm a computer science student living in Canada.</h3>
 
 # 💫 About Me:
 🔭 Interested in full-stack development<br>🌱 Currently perfectioning my JavaScript skills and learning ReactJs<br>🤖 I have a personal interest in exploring and learning about artificial intelligence in my spare time.<br><br>
