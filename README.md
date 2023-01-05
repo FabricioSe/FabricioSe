@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 My name is Fabricio and I'm a computer science student living in Canada. Here's some info about me!
 
