@@ -1,4 +1,4 @@
-# Hi there 👋
+<h1 align="center">Hi there 👋</h1>
 
 My name is Fabricio and I'm a computer science student living in Canada. Here's some info about me!
 
