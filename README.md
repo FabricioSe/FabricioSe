@@ -22,7 +22,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=FabricioSe&icon=0&color=3)](https://visitcount.itsvg.in)
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fabriciose&label=Profile%20views&color=0e75b6&style=flat" alt="fabriciose" /> </p>
 
 <!--
 **FabricioSe/FabricioSe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
