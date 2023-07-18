@@ -4,7 +4,7 @@
 
 ## 💫 Here is some info about me:
 🔭 Interested in full-stack development<br>
-🌱 Currently perfectioning my JavaScript skills and learning ReactJs<br>
+🌱 Currently perfectioning my Typescript skills and learning Angular<br>
 🤖 I have a personal interest in exploring and learning about artificial intelligence in my spare time.
 
 ## 🌐 Socials:
